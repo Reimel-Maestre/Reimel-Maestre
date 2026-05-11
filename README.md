@@ -3,9 +3,6 @@
 # 🌌 Reimel Maestre
 ### *Creative Technologist & Digital Builder*
 
-[![Marcel Theme](https://img.shields.io/badge/Theme-Marcel_Elite-C5A059?style=flat-square&logoColor=white)](#)
-<br>
-
 "Construyo cosas que funcionan y aprendo cómo están hechas. No me define un lenguaje, sino mi curiosidad para resolver retos y automatizar ideas."
 
 ---
@@ -21,15 +18,6 @@
 
 ---
 
-### 📖 Bitácora de Proyectos
-Aquí es donde la curiosidad se convierte en código. Mis experimentos actuales:
-
-* **⚔️ FFX Web Project:** Automatización de infraestructura y gestión de activos visuales. Un puente entre la nostalgia y la tecnología moderna.
-* **🤖 Cloud Automations:** Scripts de mantenimiento y "pulso digital" para mantener vivos ecosistemas en la nube.
-* **🧪 Experiment Studio:** Donde pruebo nuevas herramientas antes de integrarlas a mi arsenal principal.
-
----
-
 ### 📊 Actividad en el Nexo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Reimel-Maestre&show_icons=true&theme=tokyonight&bg_color=0B132B&title_color=C5A059&text_color=F4F1DE&icon_color=00B4D8&border_color=C5A059" alt="Stats de Reimel" />
@@ -40,6 +28,6 @@ Aquí es donde la curiosidad se convierte en código. Mis experimentos actuales:
 <div align="center">
 
 ### 🤝 Conectemos
-[📧 Email](mailto:tu-correo@ejemplo.com) | [💼 LinkedIn](https://www.linkedin.com/in/tu-perfil) | [🌐 Portafolio](https://github.com/Reimel-Maestre/FFX-web-project)
+[📧 Email](reimeljhosuemaestre@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/reimel-maestre)
 
 </div>
