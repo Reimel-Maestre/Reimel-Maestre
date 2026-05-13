@@ -1,33 +1,32 @@
-<div align="center">
-
 # 🌌 Reimel Maestre
-### *Creative Technologist & Digital Builder*
+### *Explorador Digital | Creative Builder*
 
-"Construyo cosas que funcionan y aprendo cómo están hechas. No me define un lenguaje, sino mi curiosidad para resolver retos y automatizar ideas."
+"Construyendo soluciones lógicas con un toque de creatividad."
 
 ---
-
-### 🛠️ Arsenales de Creación
-![](https://img.shields.io/badge/Python-0B132B?style=for-the-badge&logo=python&logoColor=00B4D8)
-![](https://img.shields.io/badge/Supabase-0B132B?style=for-the-badge&logo=supabase&logoColor=C5A059)
-![](https://img.shields.io/badge/Linux-0B132B?style=for-the-badge&logo=linux&logoColor=00B4D8)
-![](https://img.shields.io/badge/GitHub_Actions-0B132B?style=for-the-badge&logo=githubactions&logoColor=C5A059)
-![](https://img.shields.io/badge/JavaScript-0B132B?style=for-the-badge&logo=javascript&logoColor=00B4D8)
 
 </div>
 
----
+### 🖋️ Sobre mí
+Soy una mente curiosa en constante evolución. Me apasiona entender el "cómo" de las cosas, desde la automatización de procesos en la nube hasta la creación de experiencias visuales únicas. No me cierro a una sola tecnología; mi lenguaje favorito es el de resolver problemas.
 
-### 📊 Actividad en el Nexo
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reimel-Maestre&show_icons=true&theme=tokyonight&bg_color=0B132B&title_color=C5A059&text_color=F4F1DE&icon_color=00B4D8&border_color=C5A059" alt="Stats de Reimel" />
-</p>
+*   🔭 **Actualmente:** Perfeccionando sistemas de mantenimiento automático para bases de datos.
+*   🌱 **Aprendiendo:** Python avanzado y el arte del canto gutural.
+*   ⚡ **Dato curioso:** Creo que la elegancia reside en la simplicidad del código.
+
+### 🛠️ Herramientas de Creación
+<!-- Badges minimalistas en azul y dorado -->
+![](https://img.shields.io/badge/Python-C5A059?style=flat-square&logo=python&logoColor=0B132B)
+![](https://img.shields.io/badge/Supabase-C5A059?style=flat-square&logo=supabase&logoColor=0B132B)
+![](https://img.shields.io/badge/GitHub_Actions-C5A059?style=flat-square&logo=githubactions&logoColor=0B132B)
+![](https://img.shields.io/badge/Linux-C5A059?style=flat-square&logo=linux&logoColor=0B132B)
 
 ---
 
 <div align="center">
 
 ### 🤝 Conectemos
-[📧 Email](reimeljhosuemaestre@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/reimel-maestre)
+[LinkedIn](https://www.linkedin.com/in/reimel-maestre) |
+[Email](reimeljhosuemaestre@gmail.com)
 
 </div>
